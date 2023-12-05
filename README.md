@@ -7,7 +7,8 @@
 - [Usage](#usage)
 - [Features](#features)
 - [Built With](#built-with)
-
+- [Deployment Link](#deployment-link)
+- [Screenshots](#screenshots)
 
 ## Description
 
@@ -15,9 +16,7 @@ This project is a coding quiz web application that allows users to test their kn
 
 ## User Story
 
-AS A coding boot camp student
-I WANT to take a timed quiz on JavaScript fundamentals that stores high scores
-SO THAT I can gauge my progress compared to my peers
+As a coding boot camp student, I desire to engage in a timed quiz focused on JavaScript fundamentals, where high scores are stored. This enables me to assess my progress in comparison to my peers.
 
 ## Acceptance Criteria
 
@@ -35,7 +34,7 @@ SO THAT I can gauge my progress compared to my peers
 1. Clone the repository:
 
    bash
-   git clone https://github.com/
+   git clone https://github.com/georgeionite/ONLINE-QUIZ
 
 Open the index.html file in your web browser.
 
@@ -52,3 +51,15 @@ HTML
 CSS
 JavaScript
 
+
+## Deployment link: 
+https://georgeionite.github.io/ONLINE-QUIZ/
+
+## Screenshots: 
+
+![Alt text](image.png)
+![Alt text](image-1.png)
+![Alt text](image-2.png)
+![Alt text](image-3.png)
+![Alt text](image-4.png)
+![Alt text](image-5.png)
